@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.DS_Storedeep learning pbl.zip
+# Large dataset - kept locally
+dataset/
+deep learning pbl.zip
